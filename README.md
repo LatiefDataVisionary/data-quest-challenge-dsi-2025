@@ -1,7 +1,3 @@
-# data-quest-challenge-dsi-2025
-Repository ini digunakan untuk menyimpan dan mengeola file proyek lomba Data Quest Challenge by Data Science Indonesia (DSI) 2025.
-
-
 <p align="center">
   <!-- Jika ada logo tim atau banner lomba, bisa ditaruh di sini -->
   <!-- <img src="URL_LOGO_ATAU_BANNER" alt="Team Cubit Aku Dong / DSI Data Quest 2025" width="300"/> -->
@@ -41,6 +37,7 @@ Proyek ini berfokus pada:
 ### 📁 **Struktur Proyek & Navigasi**
 
 Untuk memudahkan eksplorasi, berikut adalah arsitektur *repository* kami:
+
 DSI_DataQuest_2025_CubitAkuDong/
 ├── 📜 .gitignore # Mengabaikan file yang tidak relevan
 ├── 📖 README.md # Panduan komprehensif ini
@@ -64,6 +61,7 @@ DSI_DataQuest_2025_CubitAkuDong/
 │
 └── 📝 reports/ # (Opsional) Laporan, insight, & materi presentasi
 └── figures/ # Visualisasi kunci (plot, grafik)
+
 ---
 
 ### 🚀 **Langkah Persiapan & Instalasi**

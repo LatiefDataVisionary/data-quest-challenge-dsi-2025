@@ -64,10 +64,9 @@ DSI_DataQuest_2025_CubitAkuDong/
 │
 └── 📝 reports/ # (Opsional) Laporan, insight, & materi presentasi
 └── figures/ # Visualisasi kunci (plot, grafik)
-
-
 ---
 
+---
 ### 🚀 **Langkah Persiapan & Instalasi**
 
 Mari siapkan lingkungan kerja Anda:

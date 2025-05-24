@@ -38,7 +38,6 @@ Proyek ini berfokus pada:
 
 Untuk memudahkan eksplorasi, berikut adalah arsitektur *repository* kami:
 
-DSI_DataQuest_2025_CubitAkuDong/
 ├── 📜 .gitignore # Mengabaikan file yang tidak relevan
 ├── 📖 README.md # Panduan komprehensif ini
 ├── 📦 requirements.txt # Daftar dependensi Python proyek
